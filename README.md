@@ -1,4 +1,4 @@
 # HelloGitHub
-A sample
-Some bits for testing.
+A sample/n
+Some bits for testing./n
 Waiting for a new start.
